@@ -1,5 +1,5 @@
-#Estructuras de datos
+# Estructuras de datos
 
-Integrantes:
--Argueta Avila Laila Akari
--Mata Reyes Valeria
+#### Integrantes:
+- Argueta Avila Laila Akari
+- Mata Reyes Valeria
